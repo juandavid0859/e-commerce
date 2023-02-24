@@ -1,0 +1,14 @@
+{
+  "name": "yard-sale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d e-commerce"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
